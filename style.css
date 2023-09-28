@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&family=Inder&display=swap');
 body{
     background-color: #EFD6AC;
 }
@@ -30,8 +32,11 @@ body{
 }
 h1 {
 
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Holtwood One SC';
     color: #5E0B15;
+    font-size: 100px;
+    width: 1000px;
+    height: 280px;
 }
 .container{
     display: flex;
@@ -43,4 +48,34 @@ h1 {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 }
+.cabecera img{
+    border-radius: 50%;
+    width: 199px;
+    height: 186px;
+}
+.propietarios .jorge {
+    color:#000000;  
+}
+.propietarios .jorge h2{
+    color:#5E0B15;
+    font-family: 'Holtwood One SC';
+    width: 180px;
+    height: 50px;
+}
+.propietarios .jorge p{
+    color:#000000;
+    font-family:'Inder', sans-serif;
+    width: 230px;
+    height: 79px;
+}
+.jorge img{
+    width: 41px;
+    height: 39px;
+    margin-top:  50px;
+    padding-left: 30px;
+    padding-right: px;
+    
+}
+
