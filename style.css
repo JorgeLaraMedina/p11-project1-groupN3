@@ -61,6 +61,10 @@ h1 {
     display: flex;
     flex-direction: column;
 }
+.colaboradores h2{
+    color: #5E0B15;
+    font-family: 'Holtwood One SC';
+}
 
 .colaboradores img{
     width: 41px;
