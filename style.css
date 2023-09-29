@@ -37,6 +37,7 @@ h1 {
     font-size: 100px;
     width: 1000px;
     height: 280px;
+    text-align: center;
 }
 .cabecera{
     display: flex;
