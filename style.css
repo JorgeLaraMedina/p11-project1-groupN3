@@ -73,7 +73,7 @@ h1 {
 .colaboradores h2{
     color: #5E0B15;
     font-family: 'Holtwood One SC';
-    ma
+    font-size: 20px;
 }
 .colaboradores h3{
     font-family: 'Happy Monkey', cursive;
@@ -101,4 +101,8 @@ h1 {
 }
 .cabecera h1{
     text-shadow:10px 5px 7px #04151f;
+}
+.Seif{
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
