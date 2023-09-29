@@ -65,7 +65,12 @@ h1 {
     color: #5E0B15;
     font-family: 'Holtwood One SC';
 }
-
+.colaboradores h3{
+    font-family: 'Happy Monkey', cursive;
+}
+.colaboradores p{
+    font-family: 'Inder';
+}
 .colaboradores img{
     width: 41px;
     height: 39px;
