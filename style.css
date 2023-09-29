@@ -38,18 +38,21 @@ h1 {
     width: 1000px;
     height: 280px;
     text-align: center;
+
 }
 .cabecera{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-bottom: 20px;
     
 }
 .cabecera img{
     border-radius: 50%;
     width: 199px;
     height: 186px;
+    margin-top: -200px;
 }
 .propietarios{
     display: flex;
