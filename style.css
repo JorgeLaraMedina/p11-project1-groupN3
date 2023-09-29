@@ -7,7 +7,9 @@ body{
 .descripcion h1{
     color: #EFD6AC;
     font-size: 48px;
-    font-family: 'Happy Monkey', cursive;}
+    font-family: 'Happy Monkey', cursive;
+}
+
 .descripcion{
     display: flex;
     justify-content: center;
@@ -18,7 +20,7 @@ body{
     width: 1100px;
     height: 222px;
     border-radius: 29px;
-    margin: auto;
+    margin-bottom: 30px;
 }
 .descripcion p{
     align-items: center;
@@ -82,4 +84,14 @@ h1 {
     margin-top:  50px;
     padding-left: 30px;   
 }
+.empresaurio{
+    display: flex;
+    justify-content: space-around;
 
+}
+.empresaurio img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 5px 10px 10px #5E0B15;
+}
