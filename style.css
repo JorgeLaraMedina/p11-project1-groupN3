@@ -50,9 +50,10 @@ h1 {
 }
 .cabecera img{
     border-radius: 50%;
-    width: 199px;
-    height: 186px;
+    width: 350px;
+    height: 300px;
     margin-top: -200px;
+    box-shadow: 5px 10px 10px #5E0B15;
 }
 .propietarios{
     display: flex;
@@ -81,3 +82,4 @@ h1 {
     margin-top:  50px;
     padding-left: 30px;   
 }
+
