@@ -57,68 +57,6 @@ h1 {
     text-align: center;
 
 }
-.propietarios .jorge {
-    color:#000000;  
-}
-.propietarios .jorge h2{
-    color:#5E0B15;
-    font-family: 'Holtwood One SC';
-    width: 180px;
-    height: 50px;
-    text-align: center;
-}
-.propietarios .jorge p{
-    color:#000000;
-    font-family:'Inder', sans-serif;
-    width: 240px;
-    height: 79px;
-    text-align: center;
-}
-.jorge img{
-    width: 41px;
-    height: 39px;
-    margin-top:  50px;
-    padding-left: 30px;    
-}
-.propietarios .seif h2{
-    color:#5E0B15;
-    font-family: 'Holtwood One SC';
-    width: 442px;
-    height: 50px;
-    text-align: center;
-}
-.propietarios .seif p{
-    color:#000000;
-    font-family:'Inder', sans-serif;
-    width: 230px;
-    height: 79px;
-}
-.seif img{
-    width: 41px;
-    height: 39px;
-    margin-top:  50px;
-    padding-left: 30px;    
-}
-.propietarios .julio h2{
-    color:#5E0B15;
-    font-family: 'Holtwood One SC';
-    width: 180px;
-    height: 50px;
-    text-align: center;
-}
-.propietarios .julio p{
-    color:#000000;
-    font-family:'Inder', sans-serif;
-    width: 230px;
-    height: 79px;
-}
-.julio img{
-    width: 41px;
-    height: 39px;
-    margin-top:  50px;
-    padding-left: 30px;    
-}
-
 .colaboradores{
     display: flex;
     flex-direction: column;
